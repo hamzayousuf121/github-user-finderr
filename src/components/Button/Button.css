@@ -1,0 +1,11 @@
+.button {
+  /* border: 1px solid lightgray; */
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  color: royalblue;
+}
+
+.button__label {
+  padding-left: 5px;
+}
